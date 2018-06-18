@@ -1,3 +1,5 @@
+/*Aluno: Lucas da Silva Camacho
+Matrícula: 0050015258*/
 #include <stdio.h>
 #include <string.h>
 
